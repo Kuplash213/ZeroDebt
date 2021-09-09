@@ -1,0 +1,7 @@
+C:\Users\Nigel\source\repos\EdmxlFileCreator\bin\Debug\EdmxlFileCreator.exe.config
+C:\Users\Nigel\source\repos\EdmxlFileCreator\bin\Debug\EdmxlFileCreator.exe
+C:\Users\Nigel\source\repos\EdmxlFileCreator\bin\Debug\EdmxlFileCreator.pdb
+C:\Users\Nigel\source\repos\EdmxlFileCreator\obj\Debug\EdmxlFileCreator.csproj.AssemblyReference.cache
+C:\Users\Nigel\source\repos\EdmxlFileCreator\obj\Debug\EdmxlFileCreator.csproj.CoreCompileInputs.cache
+C:\Users\Nigel\source\repos\EdmxlFileCreator\obj\Debug\EdmxlFileCreator.exe
+C:\Users\Nigel\source\repos\EdmxlFileCreator\obj\Debug\EdmxlFileCreator.pdb
