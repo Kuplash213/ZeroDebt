@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace EdmxlFileCreator
 {
+    //App entry point
     class Program
     {
         static void Main(string[] args)
